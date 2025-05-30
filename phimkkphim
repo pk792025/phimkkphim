@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 1
+https://vip.opstream16.com/20231025/36050_09c08047/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 2
+https://vip.opstream16.com/20231025/36049_6c064203/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 3
+https://vip.opstream16.com/20231025/36048_b0368840/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 4
+https://vip.opstream16.com/20231025/36047_aad3ddfa/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 5
+https://vip.opstream16.com/20231025/36046_97c2207f/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 6
+https://vip.opstream16.com/20231025/36045_6d368467/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 7
+https://vip.opstream16.com/20231025/36044_e14a73a6/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 8
+https://vip.opstream16.com/20231025/36043_037785e2/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 9
+https://vip.opstream16.com/20231025/36042_9b94b5ee/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 10
+https://vip.opstream16.com/20231025/36041_383d94fd/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 11
+https://vip.opstream16.com/20231025/36040_189c305a/index.m3u8
+#EXTINF:-1 group-title="Hỏa Thiêu Hồng Liên Tự" tvg-logo="https://img.ophim.live/uploads/movies/fire-on-the-temple-thumb.jpg", Hỏa Thiêu Hồng Liên Tự tập 12
+https://vip.opstream16.com/20231025/36039_8322a190/index.m3u8
+
+
 #EXTINF:-1 group-title="Ân Oán Hiệp Sĩ (Thần Long Kiếm Hiệp)" tvg-logo="https://phimimg.com/upload/vod/20250514-1/687622c4dcc8eb29ee2d0aed8489c370.jpg",Tập 1
 http://khaitv.giize.com:8080/kkphim/play.php?id=an-oan-hiep-si&tap=tap-01
 #EXTINF:-1 group-title="Ân Oán Hiệp Sĩ (Thần Long Kiếm Hiệp)" tvg-logo="https://phimimg.com/upload/vod/20250514-1/687622c4dcc8eb29ee2d0aed8489c370.jpg",Tập 2
